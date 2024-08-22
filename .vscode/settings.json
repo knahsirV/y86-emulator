@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cstddef": "c",
+        "bitset": "c",
+        "set": "c",
+        "random": "c"
+    }
+}
